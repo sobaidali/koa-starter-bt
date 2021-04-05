@@ -1,0 +1,29 @@
+{
+  "name": "koa-starter-bt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobaidali/koa-starter-bt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sobaidali/koa-starter-bt/issues"
+  },
+  "homepage": "https://github.com/sobaidali/koa-starter-bt#readme",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-ejs": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
